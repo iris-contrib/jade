@@ -1,4 +1,4 @@
-module github.com/Joker/jade
+module github.com/iris-contrib/jade
 
 require (
 	github.com/Joker/hpp v1.0.0

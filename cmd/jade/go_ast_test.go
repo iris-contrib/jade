@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Joker/jade"
+	"github.com/iris-contrib/jade"
 )
 
 var wdir string

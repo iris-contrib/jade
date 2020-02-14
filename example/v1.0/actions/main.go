@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/Joker/hpp"
-	"github.com/Joker/jade"
+	"github.com/iris-contrib/jade"
 )
 
 type Person struct {

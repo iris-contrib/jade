@@ -17,7 +17,7 @@ Trivial usage:
 
 	import (
 		"fmt"
-		"github.com/Joker/jade"
+		"github.com/iris-contrib/jade"
 	)
 
 	func main() {

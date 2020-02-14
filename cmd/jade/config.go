@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/Joker/jade"
+	"github.com/iris-contrib/jade"
 )
 
 const (

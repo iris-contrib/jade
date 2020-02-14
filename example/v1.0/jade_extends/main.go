@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/Joker/hpp"
-	"github.com/Joker/jade"
+	"github.com/iris-contrib/jade"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
